@@ -111,4 +111,4 @@ open a discussion on this repo and we'll respond promptly.
   base model, runtime, and an unusually honest set of docs (Apache-2.0)
 - [VITS](https://github.com/jaywalnut310/vits) (MIT) — architecture lineage + alignment kernel
 - Built in a day by [ScrappyLabs](https://scrappylabs.ai) — we do this kind of thing daily
-  to stay sharp. Bring your own AI; we keep receipts.
+  to stay sharp. Bring your own AI; we keep it wrangled.
