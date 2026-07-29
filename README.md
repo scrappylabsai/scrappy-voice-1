@@ -22,8 +22,12 @@ no GPU, no cloud, 0.16s load. It's a fine-tune of
 [owensong/Inflect-Micro-v2](https://huggingface.co/owensong/Inflect-Micro-v2) (Apache-2.0),
 trained the same day that model crossed our radar.
 
-Listen: [`samples/scrappy_intro.wav`](samples/scrappy_intro.wav) — Scrappy introduces himself
+Listen: [`samples/scrappy_intro.wav`](samples/scrappy_intro.wav) — Scrappy says hello
 (generated on a desktop CPU by this exact checkpoint).
+
+**Get it:** [🤗 HuggingFace](https://huggingface.co/scrappylabsai/scrappy-voice-1)
+(canonical weights) · [🐙 GitHub](https://github.com/scrappylabsai/scrappy-voice-1)
+(clone-and-run mirror, issues & PRs) · Story: [scrappylabs.ai](https://scrappylabs.ai)
 
 ## Why this exists
 
