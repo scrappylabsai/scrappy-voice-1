@@ -25,6 +25,9 @@ trained the same day that model crossed our radar.
 Listen: [`samples/scrappy_intro.wav`](samples/scrappy_intro.wav) — Scrappy says hello
 (generated on a desktop CPU by this exact checkpoint).
 
+**🎮 Try him live:** [interactive demo on Spaces](https://huggingface.co/spaces/hugging-apps/scrappy-voice-tts)
+— built by the Hugging Face team on free ZeroGPU. Thanks, HF 🤗
+
 **Get it:** [🤗 HuggingFace](https://huggingface.co/scrappylabsai/scrappy-voice-1)
 (canonical weights) · [🐙 GitHub](https://github.com/scrappylabsai/scrappy-voice-1)
 (clone-and-run mirror, issues & PRs) · Story: [scrappylabs.ai/scrappy-voice](https://scrappylabs.ai/scrappy-voice)
