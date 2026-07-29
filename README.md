@@ -27,7 +27,7 @@ Listen: [`samples/scrappy_intro.wav`](samples/scrappy_intro.wav) — Scrappy say
 
 **Get it:** [🤗 HuggingFace](https://huggingface.co/scrappylabsai/scrappy-voice-1)
 (canonical weights) · [🐙 GitHub](https://github.com/scrappylabsai/scrappy-voice-1)
-(clone-and-run mirror, issues & PRs) · Story: [scrappylabs.ai](https://scrappylabs.ai)
+(clone-and-run mirror, issues & PRs) · Story: [scrappylabs.ai/scrappy-voice](https://scrappylabs.ai/scrappy-voice)
 
 ## Why this exists
 
